@@ -23,7 +23,7 @@ O contexto desse projeto envolve uma corretora financeira que busca realizar uma
  * postgres
 
 # Inplementação
-
+https://colab.research.google.com/drive/1rUZKXd7BHaKvXlBKrBz5m35MRv6y1Q2I?usp=sharing
 
 # Autoria
 * Email: sheilacsalles@hotmail.com
